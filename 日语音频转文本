@@ -1,0 +1,14 @@
+Whisper 详细使用方法
+1. 安装 Whisper
+首先，你需要安装 Whisper，并确保 Python 3.8+ 可用：
+
+bash
+复制
+编辑
+pip install openai-whisper
+还需要安装 ffmpeg（用于处理音频文件）：
+
+bash
+复制
+编辑
+pip install ffmpeg
